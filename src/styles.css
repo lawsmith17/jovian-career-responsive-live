@@ -226,10 +226,7 @@ h1 {
 
 }
 
-  body
-  {
-    background: red;
-  }
+  
 }
 
 /* Medium devices (laptops) */
@@ -303,20 +300,14 @@ h1 {
   max-width: 800px;
 
 }
-  body
-  {
-    background: cornflowerblue;
-  }
+  
 }
 
 
 /* Large devices (desktops) */
 @media screen and (min-width: 992px)
 {
-  body
-  {
-    background: gold;
-  }
+ 
 }
 
 /* Extra Large devices (large desktops) */
@@ -328,10 +319,7 @@ h1 {
   height: 320px;
  
 }
-  body
-  {
-    background: blueviolet;
-  }
+ 
 }
 
 
